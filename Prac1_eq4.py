@@ -1,11 +1,3 @@
-# Practica 1: Ejercicio 2
-
-# Miembros:
-#    Vilchis Orozco Jesus Demián
-#    Perez Solano Emanuel
-#    Segoviano Rueda Sebastián Emmanuel
-#
-
 # Este programa tiene como objetivo el dados n <= 20 y pares ordenados de x y y
 # con consideraciones de i difrente de j para los sufijos de cada x y y, dar una sucesion
 # de polinomios de Lagrange asociados a cada x, utilizando el metodo de Neville
